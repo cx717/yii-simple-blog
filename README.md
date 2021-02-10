@@ -9,6 +9,7 @@
 [Админка](http://admin-yii-simpleblog.gt-design.ru/web/site/login)
 
 логин: admin
+
 праоль: admin
 
 
